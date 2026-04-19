@@ -1,0 +1,205 @@
+From,To,Value,Stage,Conf_Tier,Team
+Power,Elite (NET<60),1,1,Power,Mississippi St.
+Elite (NET<60),At-Large (AL),1,2,Power,Mississippi St.
+At-Large (AL),Bubble Zone (17-48),1,3,Power,Mississippi St.
+Power,Elite (NET<60),1,1,Power,Missouri
+Elite (NET<60),At-Large (AL),1,2,Power,Missouri
+At-Large (AL),Bubble Zone (17-48),1,3,Power,Missouri
+Low-Major,Elite (NET<60),1,1,Low-Major,McNeese
+Elite (NET<60),Auto-Qualifier (AQ),1,2,Low-Major,McNeese
+Auto-Qualifier (AQ),Low Seeds (49-68),1,3,Low-Major,McNeese
+Power,Elite (NET<60),1,1,Power,Arkansas
+Elite (NET<60),At-Large (AL),1,2,Power,Arkansas
+At-Large (AL),Bubble Zone (17-48),1,3,Power,Arkansas
+Mid-Major,Elite (NET<60),1,1,Mid-Major,Drake
+Elite (NET<60),Auto-Qualifier (AQ),1,2,Mid-Major,Drake
+Auto-Qualifier (AQ),Bubble Zone (17-48),1,3,Mid-Major,Drake
+Power,Elite (NET<60),1,1,Power,Duke
+Elite (NET<60),Auto-Qualifier (AQ),1,2,Power,Duke
+Auto-Qualifier (AQ),Top Seeds (1-16),1,3,Power,Duke
+Low-Major,Weak (180+),1,1,Low-Major,American
+Weak (180+),Auto-Qualifier (AQ),1,2,Low-Major,American
+Auto-Qualifier (AQ),Low Seeds (49-68),1,3,Low-Major,American
+Low-Major,Strong (60-120),1,1,Low-Major,UNCW
+Strong (60-120),Auto-Qualifier (AQ),1,2,Low-Major,UNCW
+Auto-Qualifier (AQ),Low Seeds (49-68),1,3,Low-Major,UNCW
+Power,Elite (NET<60),1,1,Power,Maryland
+Elite (NET<60),At-Large (AL),1,2,Power,Maryland
+At-Large (AL),Top Seeds (1-16),1,3,Power,Maryland
+Power,Elite (NET<60),1,1,Power,Marquette
+Elite (NET<60),At-Large (AL),1,2,Power,Marquette
+At-Large (AL),Bubble Zone (17-48),1,3,Power,Marquette
+Power,Elite (NET<60),1,1,Power,Oklahoma
+Elite (NET<60),At-Large (AL),1,2,Power,Oklahoma
+At-Large (AL),Bubble Zone (17-48),1,3,Power,Oklahoma
+Power,Elite (NET<60),1,1,Power,Michigan
+Elite (NET<60),Auto-Qualifier (AQ),1,2,Power,Michigan
+Auto-Qualifier (AQ),Bubble Zone (17-48),1,3,Power,Michigan
+High-Major,Elite (NET<60),1,1,High-Major,VCU
+Elite (NET<60),Auto-Qualifier (AQ),1,2,High-Major,VCU
+Auto-Qualifier (AQ),Bubble Zone (17-48),1,3,High-Major,VCU
+Mid-Major,Strong (60-120),1,1,Mid-Major,Akron
+Strong (60-120),Auto-Qualifier (AQ),1,2,Mid-Major,Akron
+Auto-Qualifier (AQ),Low Seeds (49-68),1,3,Mid-Major,Akron
+Power,Elite (NET<60),1,1,Power,Alabama
+Elite (NET<60),At-Large (AL),1,2,Power,Alabama
+At-Large (AL),Top Seeds (1-16),1,3,Power,Alabama
+Power,Elite (NET<60),1,1,Power,Florida
+Elite (NET<60),Auto-Qualifier (AQ),1,2,Power,Florida
+Auto-Qualifier (AQ),Top Seeds (1-16),1,3,Power,Florida
+High-Major,Elite (NET<60),1,1,High-Major,Colorado St.
+Elite (NET<60),Auto-Qualifier (AQ),1,2,High-Major,Colorado St.
+Auto-Qualifier (AQ),Bubble Zone (17-48),1,3,High-Major,Colorado St.
+Low-Major,Weak (180+),1,1,Low-Major,Saint Francis
+Weak (180+),Auto-Qualifier (AQ),1,2,Low-Major,Saint Francis
+Auto-Qualifier (AQ),Low Seeds (49-68),1,3,Low-Major,Saint Francis
+Power,Elite (NET<60),1,1,Power,Illinois
+Elite (NET<60),At-Large (AL),1,2,Power,Illinois
+At-Large (AL),Bubble Zone (17-48),1,3,Power,Illinois
+High-Major,Elite (NET<60),1,1,High-Major,Gonzaga
+Elite (NET<60),Auto-Qualifier (AQ),1,2,High-Major,Gonzaga
+Auto-Qualifier (AQ),Bubble Zone (17-48),1,3,High-Major,Gonzaga
+Low-Major,Average (120-180),1,1,Low-Major,Bryant
+Average (120-180),Auto-Qualifier (AQ),1,2,Low-Major,Bryant
+Auto-Qualifier (AQ),Low Seeds (49-68),1,3,Low-Major,Bryant
+Power,Elite (NET<60),1,1,Power,Texas A&M
+Elite (NET<60),At-Large (AL),1,2,Power,Texas A&M
+At-Large (AL),Top Seeds (1-16),1,3,Power,Texas A&M
+Power,Elite (NET<60),1,1,Power,BYU
+Elite (NET<60),At-Large (AL),1,2,Power,BYU
+At-Large (AL),Bubble Zone (17-48),1,3,Power,BYU
+Power,Elite (NET<60),1,1,Power,Kansas
+Elite (NET<60),At-Large (AL),1,2,Power,Kansas
+At-Large (AL),Bubble Zone (17-48),1,3,Power,Kansas
+Power,Elite (NET<60),1,1,Power,Purdue
+Elite (NET<60),At-Large (AL),1,2,Power,Purdue
+At-Large (AL),Top Seeds (1-16),1,3,Power,Purdue
+Power,Elite (NET<60),1,1,Power,UConn
+Elite (NET<60),At-Large (AL),1,2,Power,UConn
+At-Large (AL),Bubble Zone (17-48),1,3,Power,UConn
+High-Major,Elite (NET<60),1,1,High-Major,Utah St.
+Elite (NET<60),At-Large (AL),1,2,High-Major,Utah St.
+At-Large (AL),Bubble Zone (17-48),1,3,High-Major,Utah St.
+Mid-Major,Strong (60-120),1,1,Mid-Major,Liberty
+Strong (60-120),Auto-Qualifier (AQ),1,2,Mid-Major,Liberty
+Auto-Qualifier (AQ),Low Seeds (49-68),1,3,Mid-Major,Liberty
+Power,Elite (NET<60),1,1,Power,Texas Tech
+Elite (NET<60),At-Large (AL),1,2,Power,Texas Tech
+At-Large (AL),Top Seeds (1-16),1,3,Power,Texas Tech
+Power,Elite (NET<60),1,1,Power,Michigan St.
+Elite (NET<60),At-Large (AL),1,2,Power,Michigan St.
+At-Large (AL),Top Seeds (1-16),1,3,Power,Michigan St.
+Low-Major,Strong (60-120),1,1,Low-Major,High Point
+Strong (60-120),Auto-Qualifier (AQ),1,2,Low-Major,High Point
+Auto-Qualifier (AQ),Low Seeds (49-68),1,3,Low-Major,High Point
+Low-Major,Weak (180+),1,1,Low-Major,Norfolk St.
+Weak (180+),Auto-Qualifier (AQ),1,2,Low-Major,Norfolk St.
+Auto-Qualifier (AQ),Low Seeds (49-68),1,3,Low-Major,Norfolk St.
+Power,Elite (NET<60),1,1,Power,Louisville
+Elite (NET<60),At-Large (AL),1,2,Power,Louisville
+At-Large (AL),Bubble Zone (17-48),1,3,Power,Louisville
+Power,Elite (NET<60),1,1,Power,Creighton
+Elite (NET<60),At-Large (AL),1,2,Power,Creighton
+At-Large (AL),Bubble Zone (17-48),1,3,Power,Creighton
+Power,Elite (NET<60),1,1,Power,Texas
+Elite (NET<60),At-Large (AL),1,2,Power,Texas
+At-Large (AL),Bubble Zone (17-48),1,3,Power,Texas
+Power,Elite (NET<60),1,1,Power,Arizona
+Elite (NET<60),At-Large (AL),1,2,Power,Arizona
+At-Large (AL),Top Seeds (1-16),1,3,Power,Arizona
+Power,Elite (NET<60),1,1,Power,Houston
+Elite (NET<60),Auto-Qualifier (AQ),1,2,Power,Houston
+Auto-Qualifier (AQ),Top Seeds (1-16),1,3,Power,Houston
+Power,Elite (NET<60),1,1,Power,Baylor
+Elite (NET<60),At-Large (AL),1,2,Power,Baylor
+At-Large (AL),Bubble Zone (17-48),1,3,Power,Baylor
+Low-Major,Strong (60-120),1,1,Low-Major,Lipscomb
+Strong (60-120),Auto-Qualifier (AQ),1,2,Low-Major,Lipscomb
+Auto-Qualifier (AQ),Low Seeds (49-68),1,3,Low-Major,Lipscomb
+Power,Elite (NET<60),1,1,Power,Xavier
+Elite (NET<60),At-Large (AL),1,2,Power,Xavier
+At-Large (AL),Bubble Zone (17-48),1,3,Power,Xavier
+Low-Major,Average (120-180),1,1,Low-Major,Omaha
+Average (120-180),Auto-Qualifier (AQ),1,2,Low-Major,Omaha
+Auto-Qualifier (AQ),Low Seeds (49-68),1,3,Low-Major,Omaha
+Power,Elite (NET<60),1,1,Power,St. John's (NY)
+Elite (NET<60),Auto-Qualifier (AQ),1,2,Power,St. John's (NY)
+Auto-Qualifier (AQ),Top Seeds (1-16),1,3,Power,St. John's (NY)
+Power,Elite (NET<60),1,1,Power,North Carolina
+Elite (NET<60),At-Large (AL),1,2,Power,North Carolina
+At-Large (AL),Bubble Zone (17-48),1,3,Power,North Carolina
+Power,Elite (NET<60),1,1,Power,Oregon
+Elite (NET<60),At-Large (AL),1,2,Power,Oregon
+At-Large (AL),Bubble Zone (17-48),1,3,Power,Oregon
+Low-Major,Average (120-180),1,1,Low-Major,Montana
+Average (120-180),Auto-Qualifier (AQ),1,2,Low-Major,Montana
+Auto-Qualifier (AQ),Low Seeds (49-68),1,3,Low-Major,Montana
+High-Major,Elite (NET<60),1,1,High-Major,San Diego St.
+Elite (NET<60),At-Large (AL),1,2,High-Major,San Diego St.
+At-Large (AL),Bubble Zone (17-48),1,3,High-Major,San Diego St.
+High-Major,Elite (NET<60),1,1,High-Major,New Mexico
+Elite (NET<60),At-Large (AL),1,2,High-Major,New Mexico
+At-Large (AL),Bubble Zone (17-48),1,3,High-Major,New Mexico
+Power,Elite (NET<60),1,1,Power,UCLA
+Elite (NET<60),At-Large (AL),1,2,Power,UCLA
+At-Large (AL),Bubble Zone (17-48),1,3,Power,UCLA
+Power,Elite (NET<60),1,1,Power,Tennessee
+Elite (NET<60),At-Large (AL),1,2,Power,Tennessee
+At-Large (AL),Top Seeds (1-16),1,3,Power,Tennessee
+Mid-Major,Strong (60-120),1,1,Mid-Major,Troy
+Strong (60-120),Auto-Qualifier (AQ),1,2,Mid-Major,Troy
+Auto-Qualifier (AQ),Low Seeds (49-68),1,3,Mid-Major,Troy
+Low-Major,Weak (180+),1,1,Low-Major,SIUE
+Weak (180+),Auto-Qualifier (AQ),1,2,Low-Major,SIUE
+Auto-Qualifier (AQ),Low Seeds (49-68),1,3,Low-Major,SIUE
+Power,Elite (NET<60),1,1,Power,Vanderbilt
+Elite (NET<60),At-Large (AL),1,2,Power,Vanderbilt
+At-Large (AL),Bubble Zone (17-48),1,3,Power,Vanderbilt
+Power,Elite (NET<60),1,1,Power,Georgia
+Elite (NET<60),At-Large (AL),1,2,Power,Georgia
+At-Large (AL),Bubble Zone (17-48),1,3,Power,Georgia
+Power,Elite (NET<60),1,1,Power,Ole Miss
+Elite (NET<60),At-Large (AL),1,2,Power,Ole Miss
+At-Large (AL),Bubble Zone (17-48),1,3,Power,Ole Miss
+Power,Elite (NET<60),1,1,Power,Auburn
+Elite (NET<60),At-Large (AL),1,2,Power,Auburn
+At-Large (AL),Top Seeds (1-16),1,3,Power,Auburn
+Power,Elite (NET<60),1,1,Power,Iowa St.
+Elite (NET<60),At-Large (AL),1,2,Power,Iowa St.
+At-Large (AL),Top Seeds (1-16),1,3,Power,Iowa St.
+Power,Elite (NET<60),1,1,Power,Kentucky
+Elite (NET<60),At-Large (AL),1,2,Power,Kentucky
+At-Large (AL),Top Seeds (1-16),1,3,Power,Kentucky
+Power,Elite (NET<60),1,1,Power,Wisconsin
+Elite (NET<60),At-Large (AL),1,2,Power,Wisconsin
+At-Large (AL),Top Seeds (1-16),1,3,Power,Wisconsin
+High-Major,Elite (NET<60),1,1,High-Major,Saint Mary's (CA)
+Elite (NET<60),At-Large (AL),1,2,High-Major,Saint Mary's (CA)
+At-Large (AL),Bubble Zone (17-48),1,3,High-Major,Saint Mary's (CA)
+Power,Elite (NET<60),1,1,Power,Clemson
+Elite (NET<60),At-Large (AL),1,2,Power,Clemson
+At-Large (AL),Bubble Zone (17-48),1,3,Power,Clemson
+Mid-Major,Elite (NET<60),1,1,Mid-Major,UC San Diego
+Elite (NET<60),Auto-Qualifier (AQ),1,2,Mid-Major,UC San Diego
+Auto-Qualifier (AQ),Bubble Zone (17-48),1,3,Mid-Major,UC San Diego
+High-Major,Elite (NET<60),1,1,High-Major,Memphis
+Elite (NET<60),Auto-Qualifier (AQ),1,2,High-Major,Memphis
+Auto-Qualifier (AQ),Bubble Zone (17-48),1,3,High-Major,Memphis
+Mid-Major,Strong (60-120),1,1,Mid-Major,Yale
+Strong (60-120),Auto-Qualifier (AQ),1,2,Mid-Major,Yale
+Auto-Qualifier (AQ),Low Seeds (49-68),1,3,Mid-Major,Yale
+Mid-Major,Strong (60-120),1,1,Mid-Major,Grand Canyon
+Strong (60-120),Auto-Qualifier (AQ),1,2,Mid-Major,Grand Canyon
+Auto-Qualifier (AQ),Low Seeds (49-68),1,3,Mid-Major,Grand Canyon
+Low-Major,Average (120-180),1,1,Low-Major,Wofford
+Average (120-180),Auto-Qualifier (AQ),1,2,Low-Major,Wofford
+Auto-Qualifier (AQ),Low Seeds (49-68),1,3,Low-Major,Wofford
+Low-Major,Average (120-180),1,1,Low-Major,Robert Morris
+Average (120-180),Auto-Qualifier (AQ),1,2,Low-Major,Robert Morris
+Auto-Qualifier (AQ),Low Seeds (49-68),1,3,Low-Major,Robert Morris
+Low-Major,Weak (180+),1,1,Low-Major,Mount St. Mary's
+Weak (180+),Auto-Qualifier (AQ),1,2,Low-Major,Mount St. Mary's
+Auto-Qualifier (AQ),Low Seeds (49-68),1,3,Low-Major,Mount St. Mary's
+Low-Major,Weak (180+),1,1,Low-Major,Alabama St.
+Weak (180+),Auto-Qualifier (AQ),1,2,Low-Major,Alabama St.
+Auto-Qualifier (AQ),Low Seeds (49-68),1,3,Low-Major,Alabama St.

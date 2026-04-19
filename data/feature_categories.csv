@@ -1,0 +1,10 @@
+Category,Feature_Count,Estimated_Importance_%,Description,Total_Features,Percentage_of_Total
+Committee Logic,14,28,"AQ penalties, AL bonuses, bubble zone features",104,13.5
+NET Metrics,12,17,NET rank derivatives and transformations,104,11.5
+Conference Strength,14,16,Conference-level aggregated metrics,104,13.5
+Quadrant Records,16,16,Q1-Q4 win/loss records and percentages,104,15.4
+Win Percentages,9,6,"Overall, conference, road, quadrant win %",104,8.7
+SOS Metrics,7,5,Strength of schedule metrics,104,6.7
+Resume Scores,4,2,Quality and resume composite scores,104,3.8
+Bid Type,3,2,Tournament bid type indicators,104,2.9
+Other,25,8,Miscellaneous derived features,104,24.0

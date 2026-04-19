@@ -1,0 +1,5 @@
+Stage,Stage_Label,Feature_Count,RMSE,Models,Description,RMSE_Improvement_Pct
+0,0: Raw Data (after cleaning),22,,0,"20 raw columns, 8 W-L columns fixed from Excel date corruption",
+1,1: Base Features,60,2.39,4,"Win pct, quadrant composites, NET derived, bid type encoding",
+2,2: Conference Strength,72,1.69,5,"Per-conference NET stats, tourney rate, team vs conference",29.3
+3,3: Committee Logic,102,1.37,7,"AQ penalty, AL bonus, bubble zone, resume depth, interactions",18.9

@@ -1,0 +1,22 @@
+From,To,Value,Stage
+High-Major,Elite (NET<60),7,1
+Low-Major,Average (120-180),3,1
+Low-Major,Elite (NET<60),1,1
+Low-Major,Strong (60-120),3,1
+Low-Major,Weak (180+),8,1
+Mid-Major,Average (120-180),3,1
+Mid-Major,Elite (NET<60),1,1
+Mid-Major,Strong (60-120),4,1
+Power,Elite (NET<60),38,1
+Average (120-180),Auto-Qualifier (AQ),6,2
+Elite (NET<60),At-Large (AL),36,2
+Elite (NET<60),Auto-Qualifier (AQ),11,2
+Strong (60-120),At-Large (AL),1,2
+Strong (60-120),Auto-Qualifier (AQ),6,2
+Weak (180+),Auto-Qualifier (AQ),8,2
+At-Large (AL),Low Seeds (33-48),6,3
+At-Large (AL),Mid Seeds (17-32),15,3
+At-Large (AL),Top Seeds (1-16),16,3
+Auto-Qualifier (AQ),Bubble (49-68),20,3
+Auto-Qualifier (AQ),Low Seeds (33-48),10,3
+Auto-Qualifier (AQ),Mid Seeds (17-32),1,3

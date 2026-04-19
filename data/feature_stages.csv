@@ -1,0 +1,3 @@
+Stage,Features_Added,Cumulative_Features,RMSE_Before,RMSE_After,RMSE_Improvement,Key_Innovation,Improvement_%
+Stage 1: Base Features,62,62,2.39,1.39,1.0,"Win %, NET metrics, quadrant records",41.8
+Stage 2: Committee Logic,42,104,1.39,1.37,0.02,"Committee logic, conference strength",1.4

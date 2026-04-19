@@ -1,0 +1,13 @@
+Team,Season,Conference,Bid_Type,Story,Metric,Rank_Value
+Colgate,2020-21,Patriot,AQ,"Patriot AQ: elite NET among field, seeded 57 — large AQ/conference effect",NET-Based Rank,8
+Colgate,2020-21,Patriot,AQ,"Patriot AQ: elite NET among field, seeded 57 — large AQ/conference effect",Actual Seed,57
+West Virginia,2020-21,Big 12,AL,Big 12 AL: committee seeds higher than NET ordering alone suggests,NET-Based Rank,19
+West Virginia,2020-21,Big 12,AL,Big 12 AL: committee seeds higher than NET ordering alone suggests,Actual Seed,10
+Georgetown,2020-21,Big East,AQ,"Big East AQ: conference champ, NET vs seed gap",NET-Based Rank,38
+Georgetown,2020-21,Big East,AQ,"Big East AQ: conference champ, NET vs seed gap",Actual Seed,47
+Houston,2020-21,The American,AQ,"American AQ: elite NET, seed aligns with top of bracket",NET-Based Rank,4
+Houston,2020-21,The American,AQ,"American AQ: elite NET, seed aligns with top of bracket",Actual Seed,8
+Loyola Chicago,2020-21,MVC,AQ,"MVC AQ: strong NET, still penalized vs power-conference AL teams",NET-Based Rank,9
+Loyola Chicago,2020-21,MVC,AQ,"MVC AQ: strong NET, still penalized vs power-conference AL teams",Actual Seed,30
+Florida St.,2020-21,ACC,AL,ACC AL: rewarded vs NET rank among tournament teams,NET-Based Rank,20
+Florida St.,2020-21,ACC,AL,ACC AL: rewarded vs NET rank among tournament teams,Actual Seed,13

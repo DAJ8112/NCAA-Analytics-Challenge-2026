@@ -1,0 +1,28 @@
+From,To,Value,Stage,Conf_Tier,Sort_Order
+High-Major,Elite (NET<60),8,1,High-Major,1
+Low-Major,Elite (NET<60),1,1,Low-Major,1
+Low-Major,Strong (60-120),3,1,Low-Major,2
+Low-Major,Average (120-180),5,1,Low-Major,3
+Low-Major,Weak (180+),6,1,Low-Major,4
+Mid-Major,Elite (NET<60),2,1,Mid-Major,1
+Mid-Major,Strong (60-120),5,1,Mid-Major,2
+Power,Elite (NET<60),38,1,Power,1
+Elite (NET<60),At-Large (AL),4,2,High-Major,2
+Elite (NET<60),Auto-Qualifier (AQ),4,2,High-Major,1
+Elite (NET<60),Auto-Qualifier (AQ),1,2,Low-Major,1
+Strong (60-120),Auto-Qualifier (AQ),3,2,Low-Major,1
+Average (120-180),Auto-Qualifier (AQ),5,2,Low-Major,1
+Weak (180+),Auto-Qualifier (AQ),6,2,Low-Major,1
+Elite (NET<60),Auto-Qualifier (AQ),2,2,Mid-Major,1
+Strong (60-120),Auto-Qualifier (AQ),5,2,Mid-Major,1
+Elite (NET<60),At-Large (AL),33,2,Power,2
+Elite (NET<60),Auto-Qualifier (AQ),5,2,Power,1
+At-Large (AL),Top Seeds (1-16),12,3,Power,1
+At-Large (AL),Bubble Zone (17-48),21,3,Power,2
+Auto-Qualifier (AQ),Top Seeds (1-16),4,3,Power,1
+Auto-Qualifier (AQ),Bubble Zone (17-48),1,3,Power,2
+At-Large (AL),Bubble Zone (17-48),4,3,High-Major,2
+Auto-Qualifier (AQ),Bubble Zone (17-48),4,3,High-Major,2
+Auto-Qualifier (AQ),Bubble Zone (17-48),2,3,Mid-Major,2
+Auto-Qualifier (AQ),Low Seeds (49-68),5,3,Mid-Major,3
+Auto-Qualifier (AQ),Low Seeds (49-68),15,3,Low-Major,3

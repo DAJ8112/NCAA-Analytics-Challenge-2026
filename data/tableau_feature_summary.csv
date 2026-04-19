@@ -1,0 +1,11 @@
+Metric,Value
+Total Features,90
+Base Features (Stage 1),62
+Committee Logic Features (Stage 2),28
+Feature Categories,9
+RMSE with Base Features Only,2.39
+RMSE with All Features,1.39
+RMSE Improvement,1.0
+Top Feature Importance,2.57%
+Top 10 Features Cumulative Importance,22.4%
+Top 20 Features Cumulative Importance,39.2%

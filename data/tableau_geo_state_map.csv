@@ -1,0 +1,139 @@
+State,Conference,Conf_Tier,Team_Count,Avg_Team_NET,Conf_Avg_NET,Conf_Tournament_Rate,Conf_Strength_Score,Total_Teams,All_Teams
+Alabama,ASUN,Low-Major,1,338.0,259.9,0.083,25.74,12,North Ala.
+Alabama,American,High-Major,1,118.0,160.3,0.077,54.2,13,UAB
+Alabama,SEC,Power,2,28.0,46.4,0.625,86.74,16,"Alabama, Auburn"
+Alabama,Sun Belt,Mid-Major,2,156.0,226.1,0.071,35.4,14,"South Alabama, Troy"
+Arizona,Big 12,Power,1,3.0,48.9,0.5,86.03,16,Arizona
+Arizona,Big Sky,Low-Major,1,315.0,198.8,0.1,43.2,10,Northern Ariz.
+Arizona,Mountain West,High-Major,1,71.0,113.7,0.083,67.51,12,Grand Canyon
+Arkansas,ASUN,Low-Major,1,166.0,259.9,0.083,25.74,12,Central Ark.
+Arkansas,SEC,Power,1,17.0,46.4,0.625,86.74,16,Arkansas
+Arkansas,Sun Belt,Mid-Major,1,154.0,226.1,0.071,35.4,14,Arkansas St.
+California,ACC,Power,2,64.5,62.0,0.444,82.29,18,"California, Stanford"
+California,Big Sky,Low-Major,1,269.0,198.8,0.1,43.2,10,Sacramento St.
+California,Big West,Mid-Major,10,201.1,192.0,0.091,45.14,11,"CSU Bakersfield, CSUN, Cal Poly, Cal St. Fullerton, Long Beach St., UC Davis, UC Irvine, UC Riverside, UC San Diego, UC Santa Barbara"
+California,WCC,High-Major,5,137.8,137.4,0.25,60.74,12,"Pepperdine, Saint Mary's (CA), San Diego, San Francisco, Santa Clara"
+Colorado,Big 12,Power,1,77.0,48.9,0.5,86.03,16,Colorado
+Colorado,Big Sky,Low-Major,1,150.0,198.8,0.1,43.2,10,Northern Colo.
+Colorado,Mountain West,High-Major,2,218.5,113.7,0.083,67.51,12,"Air Force, Colorado St."
+Connecticut,Big East,Power,1,10.0,67.5,0.273,80.71,11,UConn
+Connecticut,Ivy League,Mid-Major,1,65.0,188.6,0.125,46.11,8,Yale
+Connecticut,MAAC,Low-Major,3,248.0,262.2,0.077,25.09,13,"Fairfield, Quinnipiac, Sacred Heart"
+Delaware,CUSA,Mid-Major,1,287.0,188.7,0.083,46.09,12,Delaware
+Florida,ACC,Power,2,47.0,62.0,0.444,82.29,18,"Florida St., Miami (FL)"
+Florida,ASUN,Low-Major,4,298.75,259.9,0.083,25.74,12,"FGCU, Jacksonville, North Florida, Stetson"
+Florida,American,High-Major,2,84.0,160.3,0.077,54.2,13,"Fla. Atlantic, South Fla."
+Florida,CUSA,Mid-Major,2,176.0,188.7,0.083,46.09,12,"FIU, Kennesaw St."
+Georgia,ACC,Power,1,169.0,62.0,0.444,82.29,18,Georgia Tech
+Georgia,ASUN,Low-Major,1,298.0,259.9,0.083,25.74,12,West Ga.
+Georgia,Sun Belt,Mid-Major,1,220.0,226.1,0.071,35.4,14,Ga. Southern
+Hawaii,Big West,Mid-Major,1,101.0,192.0,0.091,45.14,11,Hawaii
+Idaho,Big Sky,Low-Major,1,144.0,198.8,0.1,43.2,10,Idaho
+Idaho,Mountain West,High-Major,1,60.0,113.7,0.083,67.51,12,Boise St.
+Illinois,Atlantic 10,High-Major,1,278.0,132.2,0.143,62.23,14,Loyola Chicago
+Illinois,Big Ten,Power,2,37.0,55.7,0.5,84.09,18,"Illinois, Northwestern"
+Illinois,MVC,Mid-Major,3,114.33333333333333,141.1,0.091,59.69,11,"Bradley, Southern Ill., UIC"
+Illinois,OVC,Low-Major,4,301.25,275.6,0.091,21.26,11,"Eastern Ill., Lindenwood, SIUE, Western Ill."
+Indiana,Big Ten,Power,2,25.0,55.7,0.5,84.09,18,"Indiana, Purdue"
+Indiana,Horizon,Low-Major,2,286.5,221.2,0.091,36.8,11,"IU Indy, Purdue Fort Wayne"
+Indiana,MVC,Mid-Major,2,231.0,141.1,0.091,59.69,11,"Evansville, Valparaiso"
+Iowa,Big 12,Power,1,7.0,48.9,0.5,86.03,16,Iowa St.
+Iowa,MVC,Mid-Major,2,135.5,141.1,0.091,59.69,11,"Drake, UNI"
+Kansas,Big 12,Power,1,21.0,48.9,0.5,86.03,16,Kansas
+Kansas,MVC,Mid-Major,2,154.0,141.1,0.091,59.69,11,"Illinois St., Indiana St."
+Kentucky,ACC,Power,1,16.0,62.0,0.444,82.29,18,Louisville
+Kentucky,ASUN,Low-Major,2,288.0,259.9,0.083,25.74,12,"Bellarmine, Eastern Ky."
+Kentucky,CUSA,Mid-Major,1,160.0,188.7,0.083,46.09,12,Western Ky.
+Louisiana,American,High-Major,1,207.0,160.3,0.077,54.2,13,Tulane
+Louisiana,SEC,Power,1,78.0,46.4,0.625,86.74,16,LSU
+Louisiana,Southland,Low-Major,4,204.0,221.2,0.083,36.8,12,"McNeese, New Orleans, Nicholls, Southeastern La."
+Louisiana,Sun Belt,Mid-Major,2,334.0,226.1,0.071,35.4,14,"Louisiana, ULM"
+Maine,America East,Low-Major,1,339.0,310.9,0.111,11.17,9,Maine
+Maryland,Big Ten,Power,1,138.0,55.7,0.5,84.09,18,Maryland
+Maryland,MEAC,Low-Major,3,355.3333333333333,330.9,0.125,5.46,8,"Coppin St., Morgan St., UMES"
+Massachusetts,ACC,Power,1,158.0,62.0,0.444,82.29,18,Boston College
+Massachusetts,Ivy League,Mid-Major,1,152.0,188.6,0.125,46.11,8,Harvard
+Massachusetts,Patriot,Low-Major,2,297.0,280.7,0.1,19.8,10,"Boston U., Holy Cross"
+Michigan,Big Ten,Power,2,6.5,55.7,0.5,84.09,18,"Michigan, Michigan St."
+Michigan,Horizon,Low-Major,2,198.0,221.2,0.091,36.8,11,"Detroit Mercy, Oakland"
+Michigan,MAC,Mid-Major,3,267.0,200.5,0.154,42.71,13,"Central Mich., Eastern Mich., Western Mich."
+Minnesota,Big Ten,Power,1,80.0,55.7,0.5,84.09,18,Minnesota
+Minnesota,Summit League,Low-Major,1,103.0,238.9,0.111,31.74,9,St. Thomas (MN)
+Mississippi,SEC,Power,2,97.0,46.4,0.625,86.74,16,"Mississippi St., Ole Miss"
+Mississippi,SWAC,Low-Major,1,365.0,315.8,0.083,9.77,12,Mississippi Val.
+Mississippi,Sun Belt,Mid-Major,1,214.0,226.1,0.071,35.4,14,Southern Miss.
+Missouri,Atlantic 10,High-Major,1,30.0,132.2,0.143,62.23,14,Saint Louis
+Missouri,CUSA,Mid-Major,1,206.0,188.7,0.083,46.09,12,Missouri St.
+Missouri,OVC,Low-Major,1,224.0,275.6,0.091,21.26,11,Southeast Mo. St.
+Missouri,SEC,Power,1,58.0,46.4,0.625,86.74,16,Missouri
+Montana,Big Sky,Low-Major,1,194.0,198.8,0.1,43.2,10,Montana
+Nebraska,Big East,Power,1,83.0,67.5,0.273,80.71,11,Creighton
+Nebraska,Summit League,Low-Major,1,258.0,238.9,0.111,31.74,9,Omaha
+Nevada,Big South,Low-Major,1,242.0,236.7,0.111,32.37,9,Charleston So.
+Nevada,Mountain West,High-Major,2,90.5,113.7,0.083,67.51,12,"Nevada, UNLV"
+New Hampshire,America East,Low-Major,1,348.0,310.9,0.111,11.17,9,New Hampshire
+New Hampshire,Ivy League,Mid-Major,1,265.0,188.6,0.125,46.11,8,Dartmouth
+New Jersey,Big East,Power,1,53.0,67.5,0.273,80.71,11,Seton Hall
+New Jersey,Ivy League,Mid-Major,2,217.0,188.6,0.125,46.11,8,"Columbia, Princeton"
+New Jersey,MAAC,Low-Major,3,306.3333333333333,262.2,0.077,25.09,13,"Manhattan, Rider, Saint Peter's"
+New Mexico,CUSA,Mid-Major,1,190.0,188.7,0.083,46.09,12,New Mexico St.
+New Mexico,Mountain West,High-Major,1,46.0,113.7,0.083,67.51,12,New Mexico
+New York,ACC,Power,1,86.0,62.0,0.444,82.29,18,Syracuse
+New York,Atlantic 10,High-Major,3,144.0,132.2,0.143,62.23,14,"Davidson, Fordham, St. Bonaventure"
+New York,Ivy League,Mid-Major,1,149.0,188.6,0.125,46.11,8,Cornell
+New York,MAAC,Low-Major,4,275.5,262.2,0.077,25.09,13,"Canisius, Iona, Marist, Niagara"
+North Carolina,ACC,Power,4,32.0,62.0,0.444,82.29,18,"Duke, NC State, North Carolina, Wake Forest"
+North Carolina,American,High-Major,2,220.0,160.3,0.077,54.2,13,"Charlotte, East Carolina"
+North Carolina,CAA,Low-Major,4,198.75,192.4,0.077,45.03,13,"Campbell, Elon, N.C. A&T, UNCW"
+North Carolina,Sun Belt,Mid-Major,1,192.0,226.1,0.071,35.4,14,App State
+North Dakota,Summit League,Low-Major,2,192.5,238.9,0.111,31.74,9,"North Dakota, North Dakota St."
+Ohio,Atlantic 10,High-Major,1,69.0,132.2,0.143,62.23,14,Dayton
+Ohio,Big East,Power,1,97.0,67.5,0.273,80.71,11,Xavier
+Ohio,Horizon,Low-Major,1,127.0,221.2,0.091,36.8,11,Wright St.
+Ohio,MAC,Mid-Major,6,129.33333333333334,200.5,0.154,42.71,13,"Akron, Bowling Green, Kent St., Miami (OH), Ohio, Toledo"
+Oklahoma,American,High-Major,1,52.0,160.3,0.077,54.2,13,Tulsa
+Oklahoma,Big 12,Power,1,75.0,48.9,0.5,86.03,16,Oklahoma St.
+Oklahoma,Summit League,Low-Major,1,311.0,238.9,0.111,31.74,9,Oral Roberts
+Oregon,Big Sky,Low-Major,1,146.0,198.8,0.1,43.2,10,Portland St.
+Oregon,Big Ten,Power,1,109.0,55.7,0.5,84.09,18,Oregon
+Oregon,WCC,High-Major,3,169.33333333333334,137.4,0.25,60.74,12,"Oregon St., Pacific, Portland"
+Pennsylvania,ACC,Power,1,104.0,62.0,0.444,82.29,18,Pittsburgh
+Pennsylvania,Atlantic 10,High-Major,3,166.66666666666666,132.2,0.143,62.23,14,"Duquesne, La Salle, Saint Joseph's"
+Pennsylvania,Ivy League,Mid-Major,1,148.0,188.6,0.125,46.11,8,Penn
+Pennsylvania,Patriot,Low-Major,3,310.3333333333333,280.7,0.1,19.8,10,"Bucknell, Lafayette, Lehigh"
+Rhode Island,America East,Low-Major,1,354.0,310.9,0.111,11.17,9,Bryant
+Rhode Island,Atlantic 10,High-Major,1,151.0,132.2,0.143,62.23,14,Rhode Island
+Rhode Island,Big East,Power,1,81.0,67.5,0.273,80.71,11,Providence
+Rhode Island,Ivy League,Mid-Major,1,296.0,188.6,0.125,46.11,8,Brown
+South Carolina,ACC,Power,1,34.0,62.0,0.444,82.29,18,Clemson
+South Carolina,Big South,Low-Major,3,231.33333333333334,236.7,0.111,32.37,9,"Presbyterian, USC Upstate, Winthrop"
+South Carolina,Sun Belt,Mid-Major,1,229.0,226.1,0.071,35.4,14,Coastal Carolina
+South Dakota,Summit League,Low-Major,2,247.0,238.9,0.111,31.74,9,"South Dakota, South Dakota St."
+Tennessee,American,High-Major,1,134.0,160.3,0.077,54.2,13,Memphis
+Tennessee,CUSA,Mid-Major,1,163.0,188.7,0.083,46.09,12,Middle Tenn.
+Tennessee,OVC,Low-Major,3,228.33333333333334,275.6,0.091,21.26,11,"Tennessee St., Tennessee Tech, UT Martin"
+Tennessee,SEC,Power,2,16.5,46.4,0.625,86.74,16,"Tennessee, Vanderbilt"
+Texas,American,High-Major,4,199.5,160.3,0.077,54.2,13,"North Texas, Rice, UTSA, Wichita St."
+Texas,Big 12,Power,5,42.6,48.9,0.5,86.03,16,"Baylor, Houston, Kansas St., TCU, Texas Tech"
+Texas,Southland,Low-Major,8,229.75,221.2,0.083,36.8,12,"A&M-Corpus Christi, East Texas A&M, Houston Christian, Lamar University, Northwestern St., SFA, UIW, UTRGV"
+Texas,WAC,Mid-Major,3,213.0,181.4,0.143,48.17,7,"Abilene Christian, Tarleton St., UT Arlington"
+Utah,Big 12,Power,2,77.5,48.9,0.5,86.03,16,"BYU, Utah"
+Utah,Big Sky,Low-Major,1,202.0,198.8,0.1,43.2,10,Weber St.
+Utah,Mountain West,High-Major,1,26.0,113.7,0.083,67.51,12,Utah St.
+Utah,WAC,Mid-Major,3,177.66666666666666,181.4,0.143,48.17,7,"Southern Utah, Utah Tech, Utah Valley"
+Vermont,America East,Low-Major,1,227.0,310.9,0.111,11.17,9,Vermont
+Virginia,ACC,Power,2,33.5,62.0,0.444,82.29,18,"Virginia, Virginia Tech"
+Virginia,Atlantic 10,High-Major,3,100.0,132.2,0.143,62.23,14,"George Mason, Richmond, VCU"
+Virginia,Big South,Low-Major,2,259.0,236.7,0.111,32.37,9,"Longwood, Radford"
+Virginia,Sun Belt,Mid-Major,2,231.5,226.1,0.071,35.4,14,"James Madison, Old Dominion"
+Washington,Big Sky,Low-Major,2,220.0,198.8,0.1,43.2,10,"Eastern Wash., Idaho St."
+Washington,Big Ten,Power,1,57.0,55.7,0.5,84.09,18,Washington
+Washington,WCC,High-Major,3,91.0,137.4,0.25,60.74,12,"Gonzaga, Seattle U, Washington St."
+"Washington, D.C.",Atlantic 10,High-Major,1,91.0,132.2,0.143,62.23,14,George Washington
+"Washington, D.C.",Big East,Power,1,90.0,67.5,0.273,80.71,11,Georgetown
+"Washington, D.C.",MEAC,Low-Major,1,203.0,330.9,0.125,5.46,8,Howard
+West Virginia,Big 12,Power,1,59.0,48.9,0.5,86.03,16,West Virginia
+West Virginia,Sun Belt,Mid-Major,1,171.0,226.1,0.071,35.4,14,Marshall
+Wisconsin,Big East,Power,1,93.0,67.5,0.273,80.71,11,Marquette
+Wisconsin,Horizon,Low-Major,2,235.0,221.2,0.091,36.8,11,"Green Bay, Milwaukee"
+Wyoming,Mountain West,High-Major,1,99.0,113.7,0.083,67.51,12,Wyoming

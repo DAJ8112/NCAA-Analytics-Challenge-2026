@@ -1,0 +1,13 @@
+Metric,Value,Display
+Matched RMSE,3.48,3.48
+R-squared,0.9626,96.26%
+MAE,2.7,2.7 seeds
+Selection Precision,0.779,77.9%
+Selection Recall,0.779,77.9%
+Bracket Seed Accuracy,0.434,23/53 (43.4%)
+Within 2 Seeds,0.547,29/53 (54.7%)
+Within 4 Seeds,0.755,40/53 (75.5%)
+Overall Selection Accuracy,0.918,335/365 (91.8%)
+Tier Accuracy,0.885,323/365 (88.5%)
+Baseline RMSE (NET only),19.12,19.12
+Model Improvement vs Baseline,17.3,17.3%

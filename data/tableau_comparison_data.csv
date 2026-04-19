@@ -1,0 +1,366 @@
+Team,Conference,NET_Rank,Predicted_Seed,Actual_Seed,In_Predicted_Field,In_Actual_Field,Selection_Correct,Error,Abs_Error,Predicted_Bracket_Seed,Actual_Bracket_Seed,Bracket_Seed_Match,Predicted_Tier,Actual_Tier,Both_In_Tournament,Error_Bucket,Accuracy_Label
+Coastal Carolina,Sun Belt,229,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Washington St.,WCC,145,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Nicholls,Southland,250,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+FGCU,ASUN,247,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Eastern Mich.,MAC,238,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Florida,SEC,4,4,4,1,1,1,0,0,1,1,1,1: Top Seeds (1-16),1: Top Seeds (1-16),1,Exact,Near Perfect (within 2)
+Tulsa,American,52,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Louisville,ACC,16,16,23,1,1,1,-7,7,4,6,0,1: Top Seeds (1-16),2: Mid Seeds (17-32),1,5-8,Good (within 8)
+North Dakota,Summit League,271,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+UTRGV,Southland,126,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+UAlbany,America East,326,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Baylor,Big 12,50,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Montana,Big Sky,194,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Eastern Wash.,Big Sky,204,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Colorado St.,Mountain West,87,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+UT Martin,OVC,205,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Xavier,Big East,97,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Omaha,Summit League,258,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Sacred Heart,MAAC,293,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Coppin St.,MEAC,363,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+UAB,American,118,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+California Baptist,WAC,98,0,51,0,1,0,-51,51,0,13,0,Not in Tournament,4: Bubble (49-68),0,9+,Missed Team
+New Mexico,Mountain West,46,46,0,1,0,0,46,46,12,0,0,3: Low Seeds (33-48),Not in Tournament,0,9+,False Selection
+UC Irvine,Big West,117,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Saint Mary's (CA),WCC,22,22,26,1,1,1,-4,4,6,7,0,2: Mid Seeds (17-32),2: Mid Seeds (17-32),1,3-4,Close (within 4)
+Northeastern,CAA,286,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Tulane,American,207,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Iowa St.,Big 12,7,7,7,1,1,1,0,0,2,2,1,1: Top Seeds (1-16),1: Top Seeds (1-16),1,Exact,Near Perfect (within 2)
+Duke,ACC,1,1,1,1,1,1,0,0,1,1,1,1: Top Seeds (1-16),1: Top Seeds (1-16),1,Exact,Near Perfect (within 2)
+Rider,MAAC,357,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Elon,CAA,223,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Cal St. Fullerton,Big West,177,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+NIU,MAC,335,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Colorado,Big 12,77,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+San Jose St.,Mountain West,244,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Penn St.,Big Ten,141,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+CSU Bakersfield,Big West,330,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Maryland,Big Ten,138,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Miami (OH),MAC,64,0,44,0,1,0,-44,44,0,11,0,Not in Tournament,3: Low Seeds (33-48),0,9+,Missed Team
+Winthrop,Big South,131,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Vanderbilt,SEC,13,13,17,1,1,1,-4,4,4,5,0,1: Top Seeds (1-16),2: Mid Seeds (17-32),1,3-4,Close (within 4)
+Holy Cross,Patriot,331,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Rutgers,Big Ten,135,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Lipscomb,ASUN,193,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+California,ACC,68,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Purdue,Big Ten,9,9,8,1,1,1,1,1,3,2,0,1: Top Seeds (1-16),1: Top Seeds (1-16),1,1-2,Near Perfect (within 2)
+Kentucky,SEC,28,28,25,1,1,1,3,3,7,7,1,2: Mid Seeds (17-32),2: Mid Seeds (17-32),1,3-4,Close (within 4)
+Duquesne,Atlantic 10,133,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+BYU,Big 12,23,23,24,1,1,1,-1,1,6,6,1,2: Mid Seeds (17-32),2: Mid Seeds (17-32),1,1-2,Near Perfect (within 2)
+Marshall,Sun Belt,171,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Tennessee,SEC,20,20,21,1,1,1,-1,1,5,6,0,2: Mid Seeds (17-32),2: Mid Seeds (17-32),1,1-2,Near Perfect (within 2)
+Queens (NC),ASUN,189,0,62,0,1,0,-62,62,0,16,0,Not in Tournament,4: Bubble (49-68),0,9+,Missed Team
+IU Indy,Horizon,319,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+ULM,Sun Belt,355,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Providence,Big East,81,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Memphis,American,134,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Southern Ill.,MVC,120,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Col. of Charleston,CAA,162,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Liberty,CUSA,106,56,0,1,0,0,56,56,14,0,0,4: Bubble (49-68),Not in Tournament,0,9+,False Selection
+Bradley,MVC,113,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Oakland,Horizon,175,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Central Conn. St.,NEC,289,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Syracuse,ACC,86,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+UC Riverside,Big West,273,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Florida St.,ACC,62,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Southern California,Big Ten,79,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Howard,MEAC,203,67,65,1,1,1,2,2,17,17,1,4: Bubble (49-68),4: Bubble (49-68),1,1-2,Near Perfect (within 2)
+UMES,MEAC,351,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+North Dakota St.,Summit League,114,0,55,0,1,0,-55,55,0,14,0,Not in Tournament,4: Bubble (49-68),0,9+,Missed Team
+Washington,Big Ten,57,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Fordham,Atlantic 10,174,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+LMU (CA),WCC,179,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Saint Louis,Atlantic 10,30,30,35,1,1,1,-5,5,8,9,0,2: Mid Seeds (17-32),3: Low Seeds (33-48),1,5-8,Good (within 8)
+Chattanooga,SoCon,288,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+VCU,Atlantic 10,43,43,45,1,1,1,-2,2,11,12,0,3: Low Seeds (33-48),3: Low Seeds (33-48),1,1-2,Near Perfect (within 2)
+Illinois St.,MVC,95,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+New Orleans,Southland,215,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Northwestern,Big Ten,66,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Temple,American,167,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Manhattan,MAAC,329,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+UConn,Big East,10,10,6,1,1,1,4,4,3,2,0,1: Top Seeds (1-16),1: Top Seeds (1-16),1,3-4,Close (within 4)
+Davidson,Atlantic 10,115,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+UCF,Big 12,51,0,38,0,1,0,-38,38,0,10,0,Not in Tournament,3: Low Seeds (33-48),0,9+,Missed Team
+Merrimack,MAAC,180,64,0,1,0,0,64,64,16,0,0,4: Bubble (49-68),Not in Tournament,0,9+,False Selection
+Bellarmine,ASUN,285,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Stetson,ASUN,314,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Michigan,Big Ten,2,2,3,1,1,1,-1,1,1,1,1,1: Top Seeds (1-16),1: Top Seeds (1-16),1,1-2,Near Perfect (within 2)
+Murray St.,MVC,105,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Virginia,ACC,12,12,12,1,1,1,0,0,3,3,1,1: Top Seeds (1-16),1: Top Seeds (1-16),1,Exact,Near Perfect (within 2)
+UMass Lowell,America East,321,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Lindenwood,OVC,262,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Mississippi Val.,SWAC,365,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Cornell,Ivy League,149,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+A&M-Corpus Christi,Southland,191,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Akron,MAC,54,0,48,0,1,0,-48,48,0,12,0,Not in Tournament,3: Low Seeds (33-48),0,9+,Missed Team
+Wagner,NEC,302,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Mercyhurst,NEC,277,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+UNLV,Mountain West,111,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Colgate,Patriot,226,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Texas Tech,Big 12,19,19,19,1,1,1,0,0,5,5,1,2: Mid Seeds (17-32),2: Mid Seeds (17-32),1,Exact,Near Perfect (within 2)
+UTEP,CUSA,268,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Oregon St.,WCC,170,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+NC State,ACC,36,36,41,1,1,1,-5,5,9,11,0,3: Low Seeds (33-48),3: Low Seeds (33-48),1,5-8,Good (within 8)
+Iowa,Big Ten,27,27,36,1,1,1,-9,9,7,9,0,2: Mid Seeds (17-32),3: Low Seeds (33-48),1,9+,Off (9+)
+Green Bay,Horizon,217,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Alabama,SEC,18,18,14,1,1,1,4,4,5,4,0,2: Mid Seeds (17-32),1: Top Seeds (1-16),1,3-4,Close (within 4)
+Texas St.,Sun Belt,235,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+LSU,SEC,78,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+CSUN,Big West,188,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Hampton,CAA,270,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+North Texas,American,137,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Sam Houston,CUSA,107,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+UC Davis,Big West,178,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+N.C. Central,MEAC,342,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Air Force,Mountain West,350,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Morgan St.,MEAC,352,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Cincinnati,Big 12,49,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Tennessee St.,OVC,172,63,59,1,1,1,4,4,16,15,0,4: Bubble (49-68),4: Bubble (49-68),1,3-4,Close (within 4)
+Quinnipiac,MAAC,211,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Little Rock,OVC,309,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Wisconsin,Big Ten,25,25,20,1,1,1,5,5,7,5,0,2: Mid Seeds (17-32),2: Mid Seeds (17-32),1,5-8,Good (within 8)
+Long Beach St.,Big West,257,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Minnesota,Big Ten,80,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Samford,SoCon,218,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Houston Christian,Southland,294,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Eastern Ill.,OVC,320,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+New Hampshire,America East,348,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Siena,MAAC,183,0,63,0,1,0,-63,63,0,16,0,Not in Tournament,4: Bubble (49-68),0,9+,Missed Team
+Grand Canyon,Mountain West,71,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+High Point,Big South,76,51,50,1,1,1,1,1,13,13,1,4: Bubble (49-68),4: Bubble (49-68),1,1-2,Near Perfect (within 2)
+Oregon,Big Ten,109,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Texas Southern,SWAC,322,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+N.C. A&T,CAA,276,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Northwestern St.,Southland,301,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Prairie View,SWAC,300,0,68,0,1,0,-68,68,0,17,0,Not in Tournament,4: Bubble (49-68),0,9+,Missed Team
+Seton Hall,Big East,53,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Indiana St.,MVC,213,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+San Diego,WCC,234,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+La Salle,Atlantic 10,246,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Southeast Mo. St.,OVC,224,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Texas A&M,SEC,44,44,40,1,1,1,4,4,11,10,0,3: Low Seeds (33-48),3: Low Seeds (33-48),1,3-4,Close (within 4)
+Purdue Fort Wayne,Horizon,254,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Detroit Mercy,Horizon,221,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+New Mexico St.,CUSA,190,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Saint Francis,NEC,353,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Delaware,CUSA,287,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Richmond,Atlantic 10,165,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Missouri St.,CUSA,206,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+App State,Sun Belt,192,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+George Mason,Atlantic 10,92,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+ETSU,SoCon,139,61,0,1,0,0,61,61,16,0,0,4: Bubble (49-68),Not in Tournament,0,9+,False Selection
+UNI,MVC,72,0,49,0,1,0,-49,49,0,13,0,Not in Tournament,4: Bubble (49-68),0,9+,Missed Team
+Fairfield,MAAC,240,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Old Dominion,Sun Belt,255,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Drake,MVC,199,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+North Carolina,ACC,24,24,22,1,1,1,2,2,6,6,1,2: Mid Seeds (17-32),2: Mid Seeds (17-32),1,1-2,Near Perfect (within 2)
+Houston,Big 12,5,5,5,1,1,1,0,0,2,2,1,1: Top Seeds (1-16),1: Top Seeds (1-16),1,Exact,Near Perfect (within 2)
+Western Caro.,SoCon,228,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Ohio,MAC,231,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Rice,American,243,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+South Alabama,Sun Belt,187,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+UC San Diego,Big West,124,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Bucknell,Patriot,333,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+UNC Asheville,Big South,239,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Pacific,WCC,116,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Wyoming,Mountain West,99,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Vermont,America East,227,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Bethune-Cookman,SWAC,261,68,0,1,0,0,68,68,17,0,0,4: Bubble (49-68),Not in Tournament,0,9+,False Selection
+Santa Clara,WCC,40,40,37,1,1,1,3,3,10,10,1,3: Low Seeds (33-48),3: Low Seeds (33-48),1,3-4,Close (within 4)
+Georgia Tech,ACC,169,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Le Moyne,NEC,290,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Charleston So.,Big South,242,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Arizona,Big 12,3,3,2,1,1,1,1,1,1,1,1,1: Top Seeds (1-16),1: Top Seeds (1-16),1,1-2,Near Perfect (within 2)
+Central Mich.,MAC,280,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Southeastern La.,Southland,295,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Norfolk St.,MEAC,318,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Oral Roberts,Summit League,311,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+West Ga.,ASUN,298,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Furman,SoCon,186,0,61,0,1,0,-61,61,0,16,0,Not in Tournament,4: Bubble (49-68),0,9+,Missed Team
+Hawaii,Big West,101,54,54,1,1,1,0,0,14,14,1,4: Bubble (49-68),4: Bubble (49-68),1,Exact,Near Perfect (within 2)
+UIW,Southland,282,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Buffalo,MAC,195,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+UT Arlington,WAC,161,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Youngstown St.,Horizon,219,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+East Carolina,American,267,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Portland,WCC,222,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+East Texas A&M,Southland,304,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+South Dakota,Summit League,284,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Presbyterian,Big South,260,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Loyola Maryland,Patriot,328,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Massachusetts,MAC,201,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Utah St.,Mountain West,26,26,33,1,1,1,-7,7,7,9,0,2: Mid Seeds (17-32),3: Low Seeds (33-48),1,5-8,Good (within 8)
+Stonehill,NEC,332,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Kent St.,MAC,140,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Clemson,ACC,34,34,29,1,1,1,5,5,9,8,0,3: Low Seeds (33-48),2: Mid Seeds (17-32),1,5-8,Good (within 8)
+Alabama St.,SWAC,324,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Northern Colo.,Big Sky,150,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+William & Mary,CAA,129,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+UIC,MVC,110,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Abilene Christian,WAC,248,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+St. John's (NY),Big East,15,15,18,1,1,1,-3,3,4,5,0,1: Top Seeds (1-16),2: Mid Seeds (17-32),1,3-4,Close (within 4)
+Western Ky.,CUSA,160,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Kennesaw St.,CUSA,155,0,58,0,1,0,-58,58,0,15,0,Not in Tournament,4: Bubble (49-68),0,9+,Missed Team
+Delaware St.,MEAC,362,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Niagara,MAAC,341,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Hofstra,CAA,88,53,52,1,1,1,1,1,14,13,0,4: Bubble (49-68),4: Bubble (49-68),1,1-2,Near Perfect (within 2)
+Florida A&M,SWAC,312,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Montana St.,Big Sky,128,59,0,1,0,0,59,59,15,0,0,4: Bubble (49-68),Not in Tournament,0,9+,False Selection
+Arkansas St.,Sun Belt,154,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Stony Brook,CAA,232,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+LIU,NEC,198,66,64,1,1,1,2,2,17,16,0,4: Bubble (49-68),4: Bubble (49-68),1,1-2,Near Perfect (within 2)
+Arizona St.,Big 12,73,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Idaho St.,Big Sky,236,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+UNC Greensboro,SoCon,292,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Utah,Big 12,132,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Lafayette,Patriot,323,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Drexel,CAA,212,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+George Washington,Atlantic 10,91,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+UTSA,American,344,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+North Ala.,ASUN,338,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+South Fla.,American,45,45,46,1,1,1,-1,1,12,12,1,3: Low Seeds (33-48),3: Low Seeds (33-48),1,1-2,Near Perfect (within 2)
+Brown,Ivy League,296,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Idaho,Big Sky,144,0,60,0,1,0,-60,60,0,15,0,Not in Tournament,4: Bubble (49-68),0,9+,Missed Team
+Ohio St.,Big Ten,29,29,31,1,1,1,-2,2,8,8,1,2: Mid Seeds (17-32),2: Mid Seeds (17-32),1,1-2,Near Perfect (within 2)
+Ga. Southern,Sun Belt,220,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Indiana,Big Ten,41,41,0,1,0,0,41,41,11,0,0,3: Low Seeds (33-48),Not in Tournament,0,9+,False Selection
+Saint Joseph's,Atlantic 10,121,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Monmouth,CAA,168,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Southern U.,SWAC,279,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Louisiana Tech,CUSA,209,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Oklahoma St.,Big 12,75,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Portland St.,Big Sky,146,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Seattle U,WCC,122,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Butler,Big East,84,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Lamar University,Southland,251,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Michigan St.,Big Ten,11,11,9,1,1,1,2,2,3,3,1,1: Top Seeds (1-16),1: Top Seeds (1-16),1,1-2,Near Perfect (within 2)
+Longwood,Big South,266,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Mercer,SoCon,182,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Rhode Island,Atlantic 10,151,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+TCU,Big 12,39,39,34,1,1,1,5,5,10,9,0,3: Low Seeds (33-48),3: Low Seeds (33-48),1,5-8,Good (within 8)
+Denver,Summit League,241,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Eastern Ky.,ASUN,291,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+McNeese,Southland,56,48,47,1,1,1,1,1,12,12,1,3: Low Seeds (33-48),3: Low Seeds (33-48),1,1-2,Near Perfect (within 2)
+Cal Poly,Big West,225,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Charlotte,American,173,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Fresno St.,Mountain West,153,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+St. Bonaventure,Atlantic 10,143,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Western Mich.,MAC,283,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+South Carolina St.,MEAC,356,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Southern Miss.,Sun Belt,214,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Louisiana,Sun Belt,313,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Utah Valley,WAC,85,52,0,1,0,0,52,52,13,0,0,4: Bubble (49-68),Not in Tournament,0,9+,False Selection
+Creighton,Big East,83,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Tennessee Tech,OVC,308,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Wichita St.,American,74,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Illinois,Big Ten,8,8,10,1,1,1,-2,2,2,3,0,1: Top Seeds (1-16),1: Top Seeds (1-16),1,1-2,Near Perfect (within 2)
+Georgia St.,Sun Belt,307,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Evansville,MVC,306,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Notre Dame,ACC,94,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Morehead St.,OVC,264,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Pittsburgh,ACC,104,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Robert Morris,Horizon,147,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Belmont,MVC,63,49,0,1,0,0,49,49,13,0,0,4: Bubble (49-68),Not in Tournament,0,9+,False Selection
+UCLA,Big Ten,31,31,28,1,1,1,3,3,8,7,0,2: Mid Seeds (17-32),2: Mid Seeds (17-32),1,3-4,Close (within 4)
+Canisius,MAAC,343,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Columbia,Ivy League,185,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Dayton,Atlantic 10,69,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Virginia Tech,ACC,55,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+James Madison,Sun Belt,208,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Kansas,Big 12,21,21,15,1,1,1,6,6,6,4,0,2: Mid Seeds (17-32),1: Top Seeds (1-16),1,5-8,Good (within 8)
+Missouri,SEC,58,0,39,0,1,0,-39,39,0,10,0,Not in Tournament,3: Low Seeds (33-48),0,9+,Missed Team
+Princeton,Ivy League,249,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+SIUE,OVC,259,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Western Ill.,OVC,364,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Milwaukee,Horizon,253,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Southern Ind.,OVC,345,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Pepperdine,WCC,274,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+San Diego St.,Mountain West,47,47,0,1,0,0,47,47,12,0,0,3: Low Seeds (33-48),Not in Tournament,0,9+,False Selection
+St. Thomas (MN),Summit League,103,55,0,1,0,0,55,55,14,0,0,4: Bubble (49-68),Not in Tournament,0,9+,False Selection
+Texas,SEC,42,42,42,1,1,1,0,0,11,11,1,3: Low Seeds (33-48),3: Low Seeds (33-48),1,Exact,Near Perfect (within 2)
+Jacksonville St.,CUSA,216,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Radford,Big South,252,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Boston College,ACC,158,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Nebraska,Big Ten,14,14,13,1,1,1,1,1,4,4,1,1: Top Seeds (1-16),1: Top Seeds (1-16),1,1-2,Near Perfect (within 2)
+Penn,Ivy League,148,0,56,0,1,0,-56,56,0,14,0,Not in Tournament,4: Bubble (49-68),0,9+,Missed Team
+Middle Tenn.,CUSA,163,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Mississippi St.,SEC,112,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Valparaiso,MVC,156,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Marist,MAAC,181,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+New Haven,NEC,325,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Gonzaga,WCC,6,6,11,1,1,1,-5,5,2,3,0,1: Top Seeds (1-16),1: Top Seeds (1-16),1,5-8,Good (within 8)
+Arkansas,SEC,17,17,16,1,1,1,1,1,5,4,0,2: Mid Seeds (17-32),1: Top Seeds (1-16),1,1-2,Near Perfect (within 2)
+Oklahoma,SEC,48,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Iona,MAAC,237,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Alcorn,SWAC,349,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+FDU,NEC,334,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Grambling,SWAC,305,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Loyola Chicago,Atlantic 10,278,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+The Citadel,SoCon,346,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+SFA,Southland,89,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Sacramento St.,Big Sky,269,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Towson,CAA,159,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Saint Peter's,MAAC,233,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Ole Miss,SEC,82,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Utah Tech,WAC,176,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Yale,Ivy League,65,50,0,1,0,0,50,50,13,0,0,4: Bubble (49-68),Not in Tournament,0,9+,False Selection
+Ark.-Pine Bluff,SWAC,316,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+UMBC,America East,196,65,66,1,1,1,-1,1,17,17,1,4: Bubble (49-68),4: Bubble (49-68),1,1-2,Near Perfect (within 2)
+FIU,CUSA,197,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Georgetown,Big East,90,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Stanford,ACC,61,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Toledo,MAC,130,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Ball St.,MAC,299,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Chicago St.,NEC,340,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+UNCW,CAA,96,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Wright St.,Horizon,127,58,57,1,1,1,1,1,15,15,1,4: Bubble (49-68),4: Bubble (49-68),1,1-2,Near Perfect (within 2)
+Troy,Sun Belt,125,57,53,1,1,1,4,4,15,14,0,4: Bubble (49-68),4: Bubble (49-68),1,3-4,Close (within 4)
+NJIT,America East,327,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+VMI,SoCon,359,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Binghamton,America East,360,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+South Dakota St.,Summit League,210,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Harvard,Ivy League,152,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+UC Santa Barbara,Big West,142,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Fla. Atlantic,American,123,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Weber St.,Big Sky,202,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Boston U.,Patriot,263,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Wake Forest,ACC,67,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+West Virginia,Big 12,59,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Central Ark.,ASUN,166,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Jackson St.,SWAC,347,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Lehigh,Patriot,275,0,67,0,1,0,-67,67,0,17,0,Not in Tournament,4: Bubble (49-68),0,9+,Missed Team
+USC Upstate,Big South,303,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Cleveland St.,Horizon,317,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+North Florida,ASUN,337,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Bowling Green,MAC,157,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Bryant,America East,354,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Georgia,SEC,33,33,32,1,1,1,1,1,9,8,0,3: Low Seeds (33-48),2: Mid Seeds (17-32),1,1-2,Near Perfect (within 2)
+Villanova,Big East,35,35,30,1,1,1,5,5,9,8,0,3: Low Seeds (33-48),2: Mid Seeds (17-32),1,5-8,Good (within 8)
+San Francisco,WCC,119,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Nevada,Mountain West,70,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+American,Patriot,256,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Tarleton St.,WAC,230,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Miami (FL),ACC,32,32,27,1,1,1,5,5,8,7,0,2: Mid Seeds (17-32),2: Mid Seeds (17-32),1,5-8,Good (within 8)
+Northern Ky.,Horizon,184,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Auburn,SEC,38,38,0,1,0,0,38,38,10,0,0,3: Low Seeds (33-48),Not in Tournament,0,9+,False Selection
+Alabama A&M,SWAC,310,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Campbell,CAA,200,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Dartmouth,Ivy League,265,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Gardner-Webb,Big South,361,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+DePaul,Big East,102,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Jacksonville,ASUN,297,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Northern Ariz.,Big Sky,315,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Southern Utah,WAC,272,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Navy,Patriot,136,60,0,1,0,0,60,60,15,0,0,4: Bubble (49-68),Not in Tournament,0,9+,False Selection
+Kansas City,Summit League,358,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Boise St.,Mountain West,60,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Maine,America East,339,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Kansas St.,Big 12,100,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Wofford,SoCon,245,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Army West Point,Patriot,336,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+South Carolina,SEC,108,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+SMU,ACC,37,37,43,1,1,1,-6,6,10,11,0,3: Low Seeds (33-48),3: Low Seeds (33-48),1,5-8,Good (within 8)
+Austin Peay,ASUN,164,62,0,1,0,0,62,62,16,0,0,4: Bubble (49-68),Not in Tournament,0,9+,False Selection
+Marquette,Big East,93,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament
+Mount St. Mary's,MAAC,281,0,0,0,0,1,0,0,0,0,0,Not in Tournament,Not in Tournament,0,Exact,Correct Non-Tournament

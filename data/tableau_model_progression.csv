@@ -1,0 +1,5 @@
+Stage,RMSE,Dataset,Note
+1. Base Model,2.39,Historical Test,"81 features, 4-model ensemble"
+2. Enhanced (Committee Logic),1.69,Historical Test,"104 features, 5-model ensemble"
+3. Semi-Supervised,0.0,Historical Test,Verified historical data
+4. 2025-26 Out-of-Sample,3.48,2025-26 (53 matched teams),True out-of-sample forecast
