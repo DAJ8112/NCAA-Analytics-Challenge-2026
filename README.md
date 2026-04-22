@@ -1,6 +1,6 @@
 # How we won the 2026 NCAA Analytics Challenge
 
-## ++Problem++
+## Problem
 
 **What is the problem?**
 Every year college basketball teams across the United States compete, and out of the 350+ Division I teams, 68 are selected to play the elimination games in March known as "March Madness". These 68 teams aren't purely decided based on their position in their respective divisions - they are chosen by the NCAA committee and given a seed based on various other factors. For the Final Four Analytics Challenge 2026 we were tasked with predicting these seeds: which teams get selected, and where they are placed in the seed list. The competition ran for almost 2 months across 3 rounds. More details here:
@@ -14,9 +14,9 @@ Selection isn't purely based on points - there's subjectivity involved, which ma
 **What was NCAA expecting from us?**
 The NCAA was increasingly interested in exploring the dynamics that influence tournament success. What team strengths consistently lead to victory? Which matchups defy prediction? And can machine learning be leveraged not only to forecast tournament selections, but also to identify likely winners?
 
-Winners
+![Winners](img/winners.jpeg)
 
-## ++Solution++
+## Solution
 
 ### Stage 1 - Predictions
 
@@ -96,36 +96,36 @@ The finals gave us 10 minutes in front of a non-technical panel. We split the st
 **Dashboard 1 - Geography (framing the landscape).**
 A filled US map of all 362 Division I programs, colored by conference tier (Power / High-Major / Mid-Major / Low-Major) with a tier dropdown. Switching the filter live shows the power imbalance across the country. Next to it, a slope chart with 5–6 hand-picked teams: their rank among the 68 tournament teams by NET on the left, their actual committee seed on the right. Colgate starts at NET rank 9 and lands at seed 57; West Virginia goes the other way. The crossing lines frame the core problem - NET rank alone doesn't explain seeding.
 
-Geography Dashboard
+![Geography Dashboard](img/geography.png)
 
 **Dashboard 2 - Success Factor (what separates the tiers).**
 A radar chart overlaying the average profile of 1-seeds, 5-seeds, 12-seeds, and non-tournament teams across six axes: Q1 win %, road win %, SOS, bad loss rate, conference strength, and NET percentile. 1-seeds form a large outer hexagon; non-tournament teams form a small inner one. This directly answers the NCAA's question - "what defines a championship-caliber team?" - in a single visual.
 
-Success Factor Dashboard
+![Success Factor Dashboard](img/success_factor.png)
 
 **Dashboard 3 - Conference (the AQ penalty insight).**
 A heatmap of conference strength across all 6 seasons (2020-21 through 2025-26), colored by average NET rank, with a second view for tournament bids per conference per year. The SEC going from 5 bids to 12 in a single year is visible at a glance. Paired with a bubble chart (conference strength vs. bid rate) and a side-by-side bar showing predicted vs. actual bids per conference for 2025-26 - power conferences were essentially exact, errors concentrated in mid-majors.
 
-Conference Dashboard
+![Conference Dashboard](img/conference.png)
 
 **Dashboard 4 - Features (the engineering story).**
 A horizontal bar chart of the top 20 features by model importance, colored by category (raw stats, NET-derived, conference, committee logic). The 14 committee-logic features take 4 of the top 6 spots despite being 13.5% of the total feature count. Next to it, a dual-axis chart showing features growing stage by stage while RMSE drops - the pipeline progression in one view. A diverging bar of feature correlations with seed and the data cleaning table (before/after the Excel corruption fix) round out the dashboard.
 
-Features Dashboard
+![Features Dashboard](img/features.png)
 
 **Dashboard 5 - Pipeline (end-to-end flow).**
 A Sankey diagram flowing teams from *Conference Tier → Bid Type → Final Seed Range*. The Power Conference band stays wide through the At-Large path and spreads across the top seeds; the Low-Major band narrows at the Auto-Qualifier node and funnels entirely into seeds 49–68. Average Power-Conference AQ gets seed 13; Low-Major AQ gets seed 60 - same bid type, 47-seed gap. The Sankey makes the AQ penalty visible without any narration.
 
-Pipeline Dashboard
+![Pipeline Dashboard](img/pipeline.png)
 
 **Dashboard 6 - Accuracy (model validation).**
 A predicted-vs-actual scatter with the y=x diagonal, KPI cards (R² 96.26%, RMSE 3.48, 77.9% selection recall, 91.8% overall accuracy), an error distribution bar, and a cumulative accuracy curve. The model is near-perfect on top seeds and scatters in the bubble zone (seeds 17–48), which is also where the committee is least consistent. We kept the weak spots visible rather than hiding them - it builds more credibility with a technical audience.
 
-Accuracy Dashboard
+![Accuracy Dashboard](img/accuracy.png)
 
 The dashboards are built to be read in order: *What is the landscape? → What does success look like? → What role does conference play? → How were features built? → How does the selection pipeline work? → How accurate is the model?*
 
-## ++Results++
+## Results
 
 **The numbers.**
 
@@ -141,4 +141,4 @@ The dashboards are built to be read in order: *What is the landscape? → What d
 **The finals.**
 To end it all, NCAA provided us with court-side seats for the finals between Michigan and UConn. Amazing experience.
 
-Courtside
+![Courtside](img/courtside.jpeg)
